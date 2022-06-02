@@ -18,6 +18,7 @@ console.log(isSupported);
 
 if (!isSupported) document.body.classList.add("no-flexbox-gap");
 checkFlexGap();
+}
 
 // //   Set current year
 // const yearEl = document.querySelector(".year");
